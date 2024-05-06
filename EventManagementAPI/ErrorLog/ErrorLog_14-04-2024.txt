@@ -1,0 +1,67 @@
+------------------------------------------14-Apr-24 1:53:25 PM------------------------------------------
+LoginBL=>Login=>Started
+------------------------------------------14-Apr-24 1:53:48 PM------------------------------------------
+LoginBL=>Login=>Started
+------------------------------------------14-Apr-24 1:53:50 PM------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------14-Apr-24 1:53:51 PM------------------------------------------
+AdminController=>AddEvent=>Exception=>Value cannot be null.
+Parameter name: s   at System.Convert.FromBase64String(String s)
+   at BL.AddEventBL.AddEvent(AddEventEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\BL\AddEventBL.cs:line 24
+   at EventManagementAPI.Controllers.AdminController.AddEvent(AddEventEntity addEventEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\EventManagementAPI\Controllers\AdminController.cs:line 25
+------------------------------------------14-Apr-24 1:54:06 PM------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------14-Apr-24 1:54:06 PM------------------------------------------
+AdminController=>AddEvent=>Exception=>Value cannot be null.
+Parameter name: s   at System.Convert.FromBase64String(String s)
+   at BL.AddEventBL.AddEvent(AddEventEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\BL\AddEventBL.cs:line 24
+   at EventManagementAPI.Controllers.AdminController.AddEvent(AddEventEntity addEventEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\EventManagementAPI\Controllers\AdminController.cs:line 25
+------------------------------------------14-Apr-24 3:18:41 PM------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------14-Apr-24 3:18:41 PM------------------------------------------
+AdminController=>AddEvent=>Exception=>Value cannot be null.
+Parameter name: s   at System.Convert.FromBase64String(String s)
+   at BL.AddEventBL.AddEvent(AddEventEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\BL\AddEventBL.cs:line 24
+   at EventManagementAPI.Controllers.AdminController.AddEvent(AddEventEntity addEventEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\EventManagementAPI\Controllers\AdminController.cs:line 25
+------------------------------------------14-Apr-24 3:18:53 PM------------------------------------------
+LogoutBL=>Logout=>Started=>
+------------------------------------------14-Apr-24 3:19:23 PM------------------------------------------
+LoginBL=>Login=>Started
+------------------------------------------14-Apr-24 3:19:24 PM------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------14-Apr-24 3:19:24 PM------------------------------------------
+AdminController=>AddEvent=>Exception=>Value cannot be null.
+Parameter name: s   at System.Convert.FromBase64String(String s)
+   at BL.AddEventBL.AddEvent(AddEventEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\BL\AddEventBL.cs:line 24
+   at EventManagementAPI.Controllers.AdminController.AddEvent(AddEventEntity addEventEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\EventManagementAPI\Controllers\AdminController.cs:line 25
+------------------------------------------14-Apr-24 3:19:33 PM------------------------------------------
+LogoutBL=>Logout=>Started=>
+------------------------------------------14-Apr-24 3:19:50 PM------------------------------------------
+LoginBL=>Login=>Started
+------------------------------------------14-Apr-24 3:19:53 PM------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------14-Apr-24 3:19:53 PM------------------------------------------
+AdminController=>AddEvent=>Exception=>Value cannot be null.
+Parameter name: s   at System.Convert.FromBase64String(String s)
+   at BL.AddEventBL.AddEvent(AddEventEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\BL\AddEventBL.cs:line 24
+   at EventManagementAPI.Controllers.AdminController.AddEvent(AddEventEntity addEventEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\EventManagementAPI\Controllers\AdminController.cs:line 25
+------------------------------------------14-Apr-24 3:54:18 PM------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------14-Apr-24 3:54:32 PM------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------14-Apr-24 3:54:32 PM------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------14-Apr-24 3:55:29 PM------------------------------------------
+AdminController=>AddEvent=>Exception=>The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.    at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at BL.AddEventBL.AddEvent(AddEventEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\BL\AddEventBL.cs:line 24
+   at EventManagementAPI.Controllers.AdminController.AddEvent(AddEventEntity addEventEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\EventManagementAPI\Controllers\AdminController.cs:line 25
+------------------------------------------14-Apr-24 3:59:17 PM------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------14-Apr-24 3:59:34 PM------------------------------------------
+AdminController=>AddEvent=>Exception=>The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.    at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at BL.AddEventBL.AddEvent(AddEventEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\BL\AddEventBL.cs:line 24
+   at EventManagementAPI.Controllers.AdminController.AddEvent(AddEventEntity addEventEntity) in G:\Parth Prajapati\Week Tasks\Week10Task\EventManagementAPI\EventManagementAPI\Controllers\AdminController.cs:line 25
